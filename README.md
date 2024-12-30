@@ -1,16 +1,13 @@
 # Firebase Flutter
 
-A new Flutter project.
+## Login
+![Screenshot 2024-12-31 030916](https://github.com/user-attachments/assets/74582572-9fa8-4c2e-9be5-c045764ce553)
 
-## Getting Started
+## SignUp
+![daftar](https://github.com/user-attachments/assets/5ae66e75-6589-4451-9cb6-303d601f6b98)
 
-This project is a starting point for a Flutter application.
+## Home
+![Home](https://github.com/user-attachments/assets/171cbe32-11d2-43bd-b4da-b26d73dde36a)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Firebase Console
+![Screenshot 2024-12-31 030957](https://github.com/user-attachments/assets/2e8dbab9-686c-4773-9917-900599bdcf5d)
